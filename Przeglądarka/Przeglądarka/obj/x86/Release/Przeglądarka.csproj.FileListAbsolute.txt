@@ -1,0 +1,8 @@
+C:\Users\Matt-PC\Documents\Visual Studio 2010\Projects\Przeglądarka\Przeglądarka\bin\Release\Przeglądarka.exe
+C:\Users\Matt-PC\Documents\Visual Studio 2010\Projects\Przeglądarka\Przeglądarka\bin\Release\Przeglądarka.pdb
+C:\Users\Matt-PC\Documents\Visual Studio 2010\Projects\Przeglądarka\Przeglądarka\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Matt-PC\Documents\Visual Studio 2010\Projects\Przeglądarka\Przeglądarka\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Matt-PC\Documents\Visual Studio 2010\Projects\Przeglądarka\Przeglądarka\obj\x86\Release\Przeglądarka.csproj.GenerateResource.Cache
+C:\Users\Matt-PC\Documents\Visual Studio 2010\Projects\Przeglądarka\Przeglądarka\obj\x86\Release\Przeglądarka.exe
+C:\Users\Matt-PC\Documents\Visual Studio 2010\Projects\Przeglądarka\Przeglądarka\obj\x86\Release\Przeglądarka.pdb
+C:\Users\Matt-PC\Documents\Visual Studio 2010\Projects\Przeglądarka\Przeglądarka\obj\x86\Release\Przeglądarka.csprojResolveAssemblyReference.cache
